@@ -4,191 +4,188 @@
     "chapter": 1,
     "verse": 1,
     "text": "धृतराष्ट्र उवाच\n\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\n\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय।।1.1।।\n ",
-    "translation": "dhṛitarāśhtra uvācha\ndharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya\n",
+    "translation":"Dhritarashtra said, What did my people and the sons of Pandu do when they had assembled together, eager for battle, on the holy plain of Kurukshetra, O Sanjaya?"
   },
   {
     "chapter": 1,
     "verse": 2,
     "text": "सञ्जय उवाच\n\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा।\n\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत्।।1.2।।\n ",
-    "translation":"sañjaya uvācha\ndṛiṣhṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanastadā\nāchāryamupasaṅgamya rājā vachanamabravīt\n",
+    "translation":"Sanjaya said: Having seen the army of the Pandavas drawn up in battle array, King Duryodhana approached his teacher, Drona, and spoke these words."
   },
   {
     "chapter": 1,
     "verse": 3,
     "text":"पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्।\n\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता।।1.3।।\n ",
-    "translation": "paśhyaitāṁ pāṇḍu-putrāṇām āchārya mahatīṁ chamūm\nvyūḍhāṁ drupada-putreṇa tava śhiṣhyeṇa dhīmatā\n", 
+    "translation": "Behold, O Teacher! This mighty army of the sons of Pandu, arrayed by the son of Drupada, thy wise disciple."
   },
   {
     "chapter": 1,
     "verse":4 ,
     "text":"अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।\n\nयुयुधानो विराटश्च द्रुपदश्च महारथः।।1.4।।\n ",
-    "translation": "atra śhūrā maheṣhvāsā bhīmārjuna-samā yudhi\nyuyudhāno virāṭaśhcha drupadaśhcha mahā-rathaḥ\n",
+    "translation": "Here are heroes, mighty archers, equal in battle to Bhima and Arjuna, Yuyudhana (Satyaki), Virata, and Drupada—all mighty warriors."
   },
-  {
-    "chapter": 1,
-    "verse": 4,
-    "text":  "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।\n\nयुयुधानो विराटश्च द्रुपदश्च महारथः।।1.4।।\n ",
-    "translation": "atra śhūrā maheṣhvāsā bhīmārjuna-samā yudhi\nyuyudhāno virāṭaśhcha drupadaśhcha mahā-rathaḥ\n",
-  },
+ 
   {
     "chapter": 1,
     "verse": 5,
     "text":"धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्।\n\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः।।1.5।।\n ",
-    "translation": "dhṛiṣhṭaketuśhchekitānaḥ kāśhirājaśhcha vīryavān\npurujit kuntibhojaśhcha śhaibyaśhcha nara-puṅgavaḥ\nyudhāmanyuśhcha vikrānta uttamaujāśhcha vīryavān\n",
+    "translation": "Dhrishtaketu, Chekitana, the valiant king of Kasi, Purujit, Kuntibhoja, and Saibya—the best of men."
+
   },
   {
     "chapter": 1,
     "verse": 6,
     "text": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्।\n\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः।।1.6।।\n ",
-    "translation":"saubhadro draupadeyāśhcha sarva eva mahā-rathāḥ\n",
+    "translation":"The strong Yudhamanyu and the brave Uttamaujas, the son of Subhadra (Abhimanyu, the son of Subhadra and Arjuna), and the sons of Draupadi, all of them great charioteers (great heroes)."
 
   },
   {
     "chapter":1,
     "verse": 7,
     "text": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम।\n\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते।।1.7।।\n ",
-    "translation":"asmākaṁ tu viśhiṣhṭā ye tānnibodha dwijottama\nnāyakā mama sainyasya sanjñārthaṁ tānbravīmi te\n", 
+    "translation":"Know also, O best among the twice-born! the names of those who are the most distinguished amongst ourselves, the leaders of my army; these I name to you for your information."
   },
   {
     "chapter":1 ,
     "verse": 8,
     "text":"भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः।\n\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च।।1.8।।\n ",
-    "translation":"bhavānbhīṣhmaśhcha karṇaśhcha kṛipaśhcha samitiñjayaḥ\naśhvatthāmā vikarṇaśhcha saumadattis tathaiva cha\n", 
+    "translation":"Thou thyself, Bhishma, Karna, Kripa, the victorious in war, Asvatthama, Vikarna, and Bhurisrava, the son of Somadatta—all these are ready for battle."
   },
+
+
   {
     "chapter": 1,
     "verse": 9,
     "text": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः।\n\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः।।1.9।।\n ",
-    "translation":"anye cha bahavaḥ śhūrā madarthe tyaktajīvitāḥ\nnānā-śhastra-praharaṇāḥ sarve yuddha-viśhāradāḥ\n",
+    "translation":"anye cha bahavaḥ śhūrā madarthe tyaktajīvitāḥ\nnānā-śhastra-praharaṇāḥ sarve yuddha-viśhāradāḥ\n"
   },
   {
     "chapter":1 ,
     "verse":10 ,
     "text":"अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्।\n\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्।।1.10।।\n ",
-    "translation":  "aparyāptaṁ tadasmākaṁ balaṁ bhīṣhmābhirakṣhitam\nparyāptaṁ tvidameteṣhāṁ balaṁ bhīmābhirakṣhitam\n",
+    "translation":  "Our army, marshalled by Bhishma, is insufficient, whereas theirs, marshalled by Bhima, is sufficient."
   },
   
   {
     "chapter": 1,
     "verse":11 ,
     "text": "अयनेषु च सर्वेषु यथाभागमवस्थिताः।\n\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि।।1.11।।\n ",
-    "translation":"ayaneṣhu cha sarveṣhu yathā-bhāgamavasthitāḥ\nbhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi\n",
+    "translation":"Therefore, do all of you, stationed in your respective positions in the several divisions of the army, protect Bhishma alone."
   },
   {
     "chapter":1,
     "verse": 12,
     "text":  "तस्य संजनयन्हर्षं कुरुवृद्धः पितामहः।\n\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्।।1.12।।\n ",
-    "translation":"tasya sañjanayan harṣhaṁ kuru-vṛiddhaḥ pitāmahaḥ\nsiṁha-nādaṁ vinadyochchaiḥ śhaṅkhaṁ dadhmau pratāpavān\n",
+    "translation":"tasya sañjanayan harṣhaṁ kuru-vṛiddhaḥ pitāmahaḥ\nsiṁha-nādaṁ vinadyochchaiḥ śhaṅkhaṁ dadhmau pratāpavān\n"
   },
   {
     "chapter":1 ,
     "verse":13 ,
     "text": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः।\n\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्।।1.13।।\n ",
-    "translation":"tataḥ śhaṅkhāśhcha bheryaśhcha paṇavānaka-gomukhāḥ\nsahasaivābhyahanyanta sa śhabdastumulo ’bhavat\n",
+    "translation":"His glorious grandsire, the oldest of the Kauravas, roared like a lion to cheer Duryodhana and blew his conch."
   },
   {
     "chapter":1 ,
     "verse":14 ,
     "text": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ।\n\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः।।1.14।।\n ",
-    "translation": "tataḥ śhvetairhayairyukte mahati syandane sthitau\nmādhavaḥ pāṇḍavaśhchaiva divyau śhaṅkhau pradadhmatuḥ\n",
+    "translation": "Then, suddenly, conches, kettledrums, tabors, drums, and cow horns blared forth from the Kaurava side, and the sound was tremendous."
   },
   {
     "chapter": 1,
     "verse": 15,
     "text":"पाञ्चजन्यं हृषीकेशो देवदत्तं धनंजयः।\n\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः।।1.15।।\n ",
-    "translation": "pāñchajanyaṁ hṛiṣhīkeśho devadattaṁ dhanañjayaḥ\npauṇḍraṁ dadhmau mahā-śhaṅkhaṁ bhīma-karmā vṛikodaraḥ\n",
+    "translation": "Hrishikesha blew the Panchajanya, Arjuna blew the Devadatta, and Bhima, the wolf-bellied doer of terrible deeds, blew the great conch Paundra."
   },
   {
     "chapter": 1,
     "verse": 16,
-    "text":"पाञ्चजन्यं हृषीकेशो देवदत्तं धनंजयः।\n\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः।।1.15।।\n ",
-    "translation":"anantavijayaṁ rājā kuntī-putro yudhiṣhṭhiraḥ\nnakulaḥ sahadevaśhcha sughoṣha-maṇipuṣhpakau\n",
+    "text":"तत्रैवं सति कर्तारमात्मानं केवलं तु यः।\n\nपश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः।।18.16।।\n ",
+    "translation":"Now, such being the case, verily he who, owing to an untrained understanding, looks upon his Self, which is isolated, as the agent, he of perverted intelligence does not see."
   },
   {
     "chapter":1 ,
     "verse": 17,
-    "text":"काश्यश्च परमेष्वासः शिखण्डी च महारथः।\n\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः।।1.17।।\n ",
-    "translation":"kāśhyaśhcha parameṣhvāsaḥ śhikhaṇḍī cha mahā-rathaḥ\ndhṛiṣhṭadyumno virāṭaśhcha sātyakiśh chāparājitaḥ\n",
+    "text":"यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते।\n\nहत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते।।18.17।।\n ",
+    "translation":"He who is free from the egoistic notion, whose intelligence is not tainted by good or evil, though he slays these people, he does not slay, nor is he bound by the action.\n"
   },
   {
     "chapter": 1,
     "verse":18 ,
-    "text":"द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते।\n\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्।।1.18।।\n ",
+    "text":"ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना।\n\nकरणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः।।18.18।।\n ",
 
-    "translation": "drupado draupadeyāśhcha sarvaśhaḥ pṛithivī-pate\nsaubhadraśhcha mahā-bāhuḥ śhaṅkhāndadhmuḥ pṛithak pṛithak\n",
+    "translation": "owledge, the knowable, and the knower form the threefold impulse for action; the organ, the action, and the agent form the threefold basis of action.\n"
   },
   {
     "chapter": 1,
     "verse":19 ,
-    "text": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्।\n\nनभश्च पृथिवीं चैव तुमुलो व्यनुनादयन्।।1.19।।\n ",
-    "translation":  "sa ghoṣho dhārtarāṣhṭrāṇāṁ hṛidayāni vyadārayat\nnabhaśhcha pṛithivīṁ chaiva tumulo nunādayan\n",
+    "text": "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः।\n\nप्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि।।18.19।।\n ",
+    "translation":  "Knowledge, action, and actor are declared in the science of the Gunas (Sankhya philosophy) to be of three kinds only, according to the distinction of the Gunas. Of these, hear duly.\n"
   },
   {
     "chapter":1 ,
     "verse": 20,
-    "text": "अथ व्यवस्थितान् दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः।\n\nप्रवृत्ते शस्त्रसंपाते धनुरुद्यम्य पाण्डवः।।1.20।।\n ",
-    "translation":  "atha vyavasthitān dṛiṣhṭvā dhārtarāṣhṭrān kapi-dhwajaḥ\npravṛitte śhastra-sampāte dhanurudyamya pāṇḍavaḥ\nhṛiṣhīkeśhaṁ tadā vākyam idam āha mahī-pate\n",
+    "text": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते।\n\nअविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम्।।18.20।।\n ",
+    "translation":  "That by which one sees the indestructible Reality in all beings, not separate in any of them—know that knowledge to be Sattvic.\n"
   },
   {
     "chapter": 1,
     "verse":21 ,
-    "text": "अर्जुन उवाच\n\nहृषीकेशं तदा वाक्यमिदमाह महीपते।\n\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत।।1.21।।\n ",
-    "translation":"arjuna uvācha\nsenayor ubhayor madhye rathaṁ sthāpaya me ’chyuta\n",
+    "text": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान्।\n\nवेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम्।।18.21।।\n ",
+    "translation":"But that knowledge which sees in all beings various entities of distinct kinds as being distinct from one another, know thou that knowledge to be Rajasic.\n"
   },
   {
     "chapter":1 ,
     "verse":22 ,
-    "text": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्।\n\nकैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे।।1.22।।\n ",
-    "translation":"yāvadetān nirīkṣhe ’haṁ yoddhu-kāmān avasthitān\nkairmayā saha yoddhavyam asmin raṇa-samudyame\n",
+    "text": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम्।\n\nअतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम्।।18.22।।\n ",
+    "translation":"But that which clings to one single effect as if it were the whole, without reason, without any foundation in Truth, and is trivial—that is declared to be Tamasic.\n"
   },
   {
     "chapter": 1,
     "verse":23 ,
-    "text": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः।\n\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः।।1.23।।\n ",
-    "translation":  "yotsyamānān avekṣhe ’haṁ ya ete ’tra samāgatāḥ\ndhārtarāṣhṭrasya durbuddher yuddhe priya-chikīrṣhavaḥ\n",
+    "text": "नियतं सङ्गरहितमरागद्वेषतः कृतम्।\n\nअफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते।।18.23।।\n ",
+    "translation":  "An action that is ordained, free from attachment, done without love or hatred, and without desire for reward is declared to be Sattvic.\n"
   },
   {
     "chapter":1 ,
     "verse": 24,
-    "text": "संजय उवाच\n\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत।\n\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्।।1.24।।\n ",
-    "translation":  "sañjaya uvācha\nevam ukto hṛiṣhīkeśho guḍākeśhena bhārata\nsenayor ubhayor madhye sthāpayitvā rathottamam\n",
+    "text": "यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः।\n\nक्रियते बहुलायासं तद्राजसमुदाहृतम्।।18.24।।\n ",
+    "translation":  "But that action which is done by one longing for the fulfillment of desires or gain with egotism or with much effort is declared to be Rajasic (passionate).\n"
   },
-
-  {
+{
     "chapter": 1,
     "verse": 25,
-    "text": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्।\n\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति।।1.25।।\n ",
-    "translation":  "bhīṣhma-droṇa-pramukhataḥ sarveṣhāṁ cha mahī-kṣhitām\nuvācha pārtha paśhyaitān samavetān kurūn iti\n",
+    "text": "अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम्।\n\nमोहादारभ्यते कर्म यत्तत्तामसमुच्यते।।18.25।।\n ",
+    "translation":  "That action which is undertaken from delusion, without regard for the consequences, loss, injury, and one's own ability, is declared to be Tamasic (dark).\n"
   },
   {
     "chapter": 1,
     "verse":26 ,
-    "text": "तत्रापश्यत्स्थितान्पार्थः पितृ़नथ पितामहान्।\n\nआचार्यान्मातुलान्भ्रातृ़न्पुत्रान्पौत्रान्सखींस्तथा।।1.26।।\n ",
-    "translation": "tatrāpaśhyat sthitān pārthaḥ pitṝīn atha pitāmahān\nāchāryān mātulān bhrātṝīn putrān pautrān sakhīṁs tathā\nśhvaśhurān suhṛidaśh chaiva senayor ubhayor api\n",
+    "text": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः।\n\nसिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते।।18.26।।\n ",
+    "translation": "An agent who is free from attachment, non-egoistic, endowed with firmness and enthusiasm, and unaffected by success or failure, is considered to be of a Sattvic (pure) nature."
   },
   {
     "chapter": 1,
     "verse": 27,
-    "text": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि।\n\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्।।1.27।।\n ",
-    "translation": "tān samīkṣhya sa kaunteyaḥ sarvān bandhūn avasthitān\nkṛipayā parayāviṣhṭo viṣhīdann idam abravīt\n",
+    "text": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः।\n\nहर्षशोकान्वितः कर्ता राजसः परिकीर्तितः।।18.27।।\n ",
+    "translation": "Passionate, desiring to obtain the reward of their actions, greedy, cruel, impure, moved by joy and sorrow, such an agent is said to be Rajasic.\n"
   },
   {
     "chapter":1 ,
     "verse":28 ,
-    "text": "अर्जुन उवाच\n\nकृपया परयाऽऽविष्टो विषीदन्निदमब्रवीत्।\n\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्।।1.28।।\n ",
-    "translation": "arjuna uvācha\ndṛiṣhṭvemaṁ sva-janaṁ kṛiṣhṇa yuyutsuṁ samupasthitam\n",
+    "text": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः।\n\nविषादी दीर्घसूत्री च कर्ता तामस उच्यते।।18.28।।\n ",
+    "translation": "Unsteady, vulgar, inflexible, deceitful, malicious, lazy, despondent, and procrastinating—such an agent is called Tamasic.\n"
   },
   {
     "chapter": 1,
     "verse":29 ,
-    "text":"सीदन्ति मम गात्राणि मुखं च परिशुष्यति।\n\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते।।1.29।।\n ",
-    "translation":  "sīdanti mama gātrāṇi mukhaṁ cha pariśhuṣhyati\nvepathuśh cha śharīre me roma-harṣhaśh cha jāyate\n",
+    "text":"बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं श्रृणु।\n\nप्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय।।18.29।।\n ",
+    "translation":  "Hear thou the threefold division of intellect and firmness, according to the Gunas, as I declare them fully and distinctly, O Arjuna\n"
   },
   {
     "chapter": 1,
     "verse":30 ,
-    "text": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति।\n\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते।।1.29।।\n ",
-    "translation":"sīdanti mama gātrāṇi mukhaṁ cha pariśhuṣhyati\nvepathuśh cha śharīre me roma-harṣhaśh cha jāyate\n" ,
+    "text": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये।\n\nबन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी।।18.30।।\n ",
+    "translation":"The intellect which knows the path of work and renunciation, what should be done and what should not be done, fear and fearlessness, bondage and liberation—that intellect is Sattvic (pure), O Arjuna.\n" 
   }
  
 
